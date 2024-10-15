@@ -1,0 +1,22 @@
+{
+    "organization":[
+    {       
+      "key": "1",
+      "id": "1",
+      "companyName": "Najot Ta'lim",
+      "inn": "224455784",
+      "status": "Faol",
+      "address": "Toshkent, Chilonzor 9kv",
+      "createdAt": "05.11.2018"
+        },
+    {       
+      "key": "11",
+      "id": "2",
+      "companyName": "Cambridge academy",
+      "inn": "415254861",
+      "status": "Faol",
+      "address": "Toshkent, Chilonzor 10kv",
+      "createdAt": "05.11.2005"
+        }
+    ]
+}
